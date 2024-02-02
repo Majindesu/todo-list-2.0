@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Alifi@n2001",
+    "database": "todolistv2_dev",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Alifi@n2001",
+    "database": "todolistv2_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Alifi@n2001",
+    "database": "todolistv2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
